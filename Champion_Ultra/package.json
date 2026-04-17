@@ -1,0 +1,38 @@
+{
+  "name": "champion-ultra",
+  "version": "1.2.9",
+  "description": "Premium Multi-Purpose Discord Bot with a huge amount of Features and many Customisation Options.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discord-player/extractor": "latest",
+    "better-sqlite3": "latest",
+    "canvas": "latest",
+    "captcha-canvas": "^3.0.0",
+    "chalk": "^4.1.2",
+    "cookie-parser": "latest",
+    "cron": "^2.1.0",
+    "discord-player": "^6.6.7",
+    "discord.js": "^14.15.2",
+    "ejs": "latest",
+    "enmap": "^5.3.1",
+    "express": "latest",
+    "form-data": "latest",
+    "hastebin-gen": "^2.0.5",
+    "jsonwebtoken": "latest",
+    "mathjs": "latest",
+    "mongoose": "^7.2.2",
+    "ms": "^2.1.2",
+    "mysql2": "latest",
+    "quick.db": "^9.0.5",
+    "yaml": "latest",
+    "youtube-ext": "latest",
+    "mediaplex": "latest"
+  },
+  "engines": {
+    "node": ">=20.13.0"
+  }
+}
